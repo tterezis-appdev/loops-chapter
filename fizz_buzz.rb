@@ -32,6 +32,6 @@
 
 # ~~~~~ Specs (make it do these things) ~~~~~
 #
-# fizz_buzz.rb should output the correct response 
+# fizz_buzz.rb should output the correct response as shown above
 #
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
