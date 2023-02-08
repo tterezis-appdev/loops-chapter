@@ -27,3 +27,11 @@
 # divide x by y and have nothing leftover. Do we have 
 # anything in our Ruby toolbox that can help find 
 # remainders? Look through the previous chapters.
+
+
+
+# ~~~~~ Specs (make it do these things) ~~~~~
+#
+# fizz_buzz.rb should output the correct response 
+#
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
