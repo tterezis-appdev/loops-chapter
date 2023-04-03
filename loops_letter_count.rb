@@ -13,4 +13,8 @@
 # 5
 # "apple is 5 letters long!"
 
-p "Enter a word:"
+puts "Enter a word:"
+word=gets.chomp
+num=word.length
+(1..num).each {|i|puts i}
+puts "#{word} is #{num} letters long!"

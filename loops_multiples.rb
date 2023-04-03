@@ -17,5 +17,10 @@
 # 18
 # 20
 
-p "Enter a number:"
+puts "Enter a number:" 
+num=gets.chomp.to_i
 
+for i in 1..10
+	mult=num*i
+	puts "#{mult}"
+end
